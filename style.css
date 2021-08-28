@@ -35,9 +35,8 @@ img {
 
 footer {
     height: 5px;
-    padding-top: 5px;
-    padding: 5px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    text-align: right;
 }
 
 #ContentTitle {
