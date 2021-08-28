@@ -34,9 +34,10 @@ img {
 }
 
 footer {
-    height: 35px;
+    height: 5px;
     padding-top: 5px;
     padding: 5px;
+    padding-bottom: 10px;
 }
 
 #ContentTitle {
@@ -71,3 +72,40 @@ footer {
         text-align: center;
         
     }
+
+     /*Parallax*/
+  .para-slide {
+	width:100%;
+	position:relative;
+	text-align:center;
+	height:100vh;
+}
+.para-slide h1 {
+	margin:0;
+	padding-top:5%;
+	font-size:3.5em;
+	color:white;
+}
+.para-slide h2 {
+	margin:0;
+	padding-top:10%;
+	color:white;
+	font-size:3.75em;
+}
+.para-slide h3 {
+	color:white;
+	margin-top:0;
+}
+.para-slide p {
+	color:white;
+	font-size:1.5em;
+	margin:0;
+	padding-top:3%;
+	padding-bottom:3%;
+	max-width:65%;
+	margin:auto;
+}
+
+.paratext {
+    text-align: center;
+}
