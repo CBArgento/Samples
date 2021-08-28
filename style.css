@@ -1,0 +1,34 @@
+.divider1 {
+    padding: 20px;
+}
+
+.divider2 {
+    padding: 30px;
+}
+
+.card {
+    text-align: center;
+}
+
+.FeatureTitle {
+    text-align: center;
+}
+
+.FeatureIcons {
+    text-align: center;
+}
+
+.jumbotron {
+    background: url("assets/img/paint2.jpg") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    color: white;
+}
+
+footer {
+    height: 35px;
+    padding-top: 5px;
+    padding: 5px;
+}
