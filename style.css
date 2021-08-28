@@ -8,6 +8,11 @@
 
 .card {
     text-align: center;
+    
+}
+
+img {
+    
 }
 
 .FeatureTitle {
@@ -25,6 +30,7 @@
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
     color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 footer {
@@ -32,3 +38,36 @@ footer {
     padding-top: 5px;
     padding: 5px;
 }
+
+#ContentTitle {
+    text-align: center;
+    font-size: 48px;
+}
+
+#iconsstyle {
+    text-align: center;
+    font-size: 60px;
+    color: #aaf683;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+#icons {
+    padding-right: 1em;
+ }
+
+ #icon {
+    height: 95px;
+    width: 95px;
+    
+    }
+    
+    .Businfo {
+    text-align: center;
+    }
+
+    #conecticons {
+        text-align: center;
+        
+    }
